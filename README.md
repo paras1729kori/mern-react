@@ -5,8 +5,6 @@
 - `factWise` folder contains the main `react app` with `typescript`
 - `server` folder contains an `express api` for handling the read, update and delete operations on `celebrities.json` file
 
-<br />
-
 ## **Main features**
 
 - Vite is used as a module bundler
@@ -15,7 +13,5 @@
 - Searching users on the basis of first or last name
 - Update and delete the user details
 - Custom types and helper functions are used to organize code
-
-<br />
 
 > Thank you.
