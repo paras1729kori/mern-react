@@ -1,4 +1,4 @@
-# **FactWise React Assignment**
+# **MERN React Assignment**
 
 ## **Folder Structure**
 
